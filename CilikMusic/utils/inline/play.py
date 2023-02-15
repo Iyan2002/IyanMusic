@@ -48,6 +48,25 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 text=_["CLOSEMENU_BUTTON"], callback_data="close"
             )
         ],
+        [
+            InlineKeyboardButton(
+                text="
+                url=f"
+            ),
+            InlineKeyboardButton(
+                text="
+                url=f"
+        ],
+        [
+            InlineKeyboardButton(
+                text="
+                url=f"
+            ),
+            InlineKeyboardButton(
+                text="
+                url=f"
+            ),
+        ],
     ]
     return buttons
 
