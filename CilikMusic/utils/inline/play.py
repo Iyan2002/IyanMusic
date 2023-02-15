@@ -221,7 +221,7 @@ def slider_markup(
             ),
             InlineKeyboardButton(
                 text="ᴏᴡɴᴇʀ ʙᴏᴛ",
-                url=f"https://tme/@A_iyan"
+                url=f"https://tme/A_iyan"
             ),
         ],
     ]
@@ -262,6 +262,26 @@ def panel_markup_1(_, videoid, chat_id):
             InlineKeyboardButton(
                 text="▶️",
                 callback_data=f"Pages Forw|0|{videoid}|{chat_id}",
+            ),
+        ],
+        [
+            InlineKeyboardButton(
+                text="ᴀʀᴇᴀ ɢᴀʙᴜᴛ",
+                url=f"https://t.me/Areaa_Gabutt"
+            ),
+            InlineKeyboardButton(
+                text="ᴘᴜʙʟɪᴋ ᴠɪʀᴛᴜᴀʟ",
+                url=f"https://t.me/Publik_Virtual"
+            ),
+        ],
+        [
+            InlineKeyboardButton(
+                text="ᴄʜ ɪʏᴀɴ"
+                url=f"https://t.me/bang_iyan"
+            ),
+            InlineKeyboardButton(
+                text="ᴏᴡɴᴇʀ ʙᴏᴛ"
+                url=f"https://t.me/A_iyan"
             ),
         ],
     ]
