@@ -225,23 +225,23 @@ def slider_markup(
         ],
         [
             InlineKeyboardButton(
-                text="ᴀʀᴇᴀ ɢᴀʙᴜᴛ",
-                url=f"https://t.me/Areaa_Gabutt"
-            ),
+                text="ᴀʀᴇᴀ ɢᴀʙᴜᴛ", url=f"https://t.me/Areaa_Gabutt"),
+
+
             InlineKeyboardButton(
-                text="ᴘᴜʙʟɪᴋ ᴠɪʀᴛᴜᴀʟ",
-                url=f"https://t.me/Publik_Virtual"
-            ),
+                text="ᴘᴜʙʟɪᴋ ᴠɪʀᴛᴜᴀʟ", url=f"https://t.me/Publik_Virtual"),
+
+
         ],
         [
             InlineKeyboardButton(
-                text="ᴄʜ ɪʏᴀɴ",
-                url=f"https://t.me/Bang_Iyan"
-            ),
+                text="ᴄʜ ɪʏᴀɴ", url=f"https://t.me/Bang_Iyan"),
+
+
             InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ ʙᴏᴛ",
-                url=f"https://tme/A_Iyan"
-            ),
+                text="ᴏᴡɴᴇʀ ʙᴏᴛ", url=f"https://tme/A_Iyan"),
+
+
         ],
     ]
     return buttons
@@ -285,23 +285,23 @@ def panel_markup_1(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="ᴀʀᴇᴀ ɢᴀʙᴜᴛ",
-                url=f"https://t.me/Areaa_Gabutt"
-            ),
+                text="ᴀʀᴇᴀ ɢᴀʙᴜᴛ", url=f"https://t.me/Areaa_Gabutt"),
+
+
             InlineKeyboardButton(
-                text="ᴘᴜʙʟɪᴋ ᴠɪʀᴛᴜᴀʟ",
-                url=f"https://t.me/Publik_Virtual"
-            ),
+                text="ᴘᴜʙʟɪᴋ ᴠɪʀᴛᴜᴀʟ", url=f"https://t.me/Publik_Virtual"),
+
+
         ],
         [
             InlineKeyboardButton(
-                text="ᴄʜ ɪʏᴀɴ"
-                url=f"https://t.me/Bang_Iyan"
-            ),
+                text="ᴄʜ ɪʏᴀɴ" url=f"https://t.me/Bang_Iyan"),
+
+
             InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ ʙᴏᴛ"
-                url=f"https://t.me/A_Iyan"
-            ),
+                text="ᴏᴡɴᴇʀ ʙᴏᴛ" url=f"https://t.me/A_Iyan"),
+
+
         ],
     ]
     return buttons
