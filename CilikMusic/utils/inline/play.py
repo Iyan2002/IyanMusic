@@ -217,11 +217,11 @@ def slider_markup(
         [
             InlineKeyboardButton(
                 text="ᴄʜ ɪʏᴀɴ",
-                url=f"https://t.me/bang_iyan"
+                url=f"https://t.me/Bang_Iyan"
             ),
             InlineKeyboardButton(
                 text="ᴏᴡɴᴇʀ ʙᴏᴛ",
-                url=f"https://tme/A_iyan"
+                url=f"https://tme/A_Iyan"
             ),
         ],
     ]
@@ -277,11 +277,11 @@ def panel_markup_1(_, videoid, chat_id):
         [
             InlineKeyboardButton(
                 text="ᴄʜ ɪʏᴀɴ"
-                url=f"https://t.me/bang_iyan"
+                url=f"https://t.me/Bang_Iyan"
             ),
             InlineKeyboardButton(
                 text="ᴏᴡɴᴇʀ ʙᴏᴛ"
-                url=f"https://t.me/A_iyan"
+                url=f"https://t.me/A_Iyan"
             ),
         ],
     ]
