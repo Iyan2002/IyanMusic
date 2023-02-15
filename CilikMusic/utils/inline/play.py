@@ -204,6 +204,26 @@ def slider_markup(
                 callback_data=f"slider F|{query_type}|{query}|{user_id}|{channel}|{fplay}",
             ),
         ],
+        [
+            InlineKeyboardButton(
+                text="ᴀʀᴇᴀ ɢᴀʙᴜᴛ",
+                url=f"https://t.me/Areaa_Gabutt"
+            ),
+            InlineKeyboardButton(
+                text="ᴘᴜʙʟɪᴋ ᴠɪʀᴛᴜᴀʟ",
+                url=f"https://t.me/Publik_Virtual"
+            ),
+        ],
+        [
+            InlineKeyboardButton(
+                text="ᴄʜ ɪʏᴀɴ",
+                url=f"https://t.me/bang_iyan"
+            ),
+            InlineKeyboardButton(
+                text="ᴏᴡɴᴇʀ ʙᴏᴛ",
+                url=f"https://tme/@A_iyan"
+            ),
+        ],
     ]
     return buttons
 
